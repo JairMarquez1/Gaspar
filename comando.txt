@@ -5,4 +5,8 @@ crear una rama
 
 ESTO GENERARÁ UN CONFLICTO :(
 
+<<<<<<< HEAD
 el problema
+=======
+Ya no hay conflicto
+>>>>>>> pruebas
