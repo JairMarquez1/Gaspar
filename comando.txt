@@ -2,3 +2,5 @@ comando
 
 crear una rama
 	git branch <nombre_de_rama>
+
+ESTO GENERARÁ UN CONFLICTO :(
